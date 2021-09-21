@@ -11,3 +11,5 @@ En segundo lugar bla bla bla
 Los resultados muestran que bla bla bla.
 
 # Conclusión
+
+En conclusión, git es la patá.
